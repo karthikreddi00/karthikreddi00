@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/karthikreddi00">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8a2be2&center=true&vCenter=true&width=600&lines=CSE+Student+at+KL+University;Java+%26+Spring+Boot+Developer;Associate+Cloud+Engineer+(GCP);DevOps+%26+Open+Source+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8a2be2&center=true&vCenter=true&width=600&lines=Java+%26+Spring+Boot+Developer;DevOps+%26+Open+Source+Enthusiast;Competitive+Programmer;Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 
 ### 💫 About Me
 
-I am a Computer Science & Engineering student at **KL University** (CGPA: 9.04/10) with a strong foundation in Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), and Backend Development. I love building secure, scalable cloud-native web applications and automating software development pipelines.
+I am a Computer Science & Engineering student with a strong foundation in Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), and Backend Development. I love building secure, scalable cloud-native web applications and automating software development pipelines.
 
 <table width="100%">
   <tr>
@@ -37,20 +37,6 @@ I am a Computer Science & Engineering student at **KL University** (CGPA: 9.04/1
     </td>
   </tr>
 </table>
-
----
-
-### 🏆 Certifications
-
-<p align="left">
-  <a href="https://www.credly.com/badges/09ff52fe-18b3-48a6-a547-86e5da3cd816/linked_in_profile" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Cloud_Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP ACE Certification" />
-  </a>
-  <a href="https://www.credly.com/badges/e023338a-996f-4673-acb4-2e3309e7aa11/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB_Associate_Developer-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Certification" />
-  </a>
-</p>
-
 ---
 
 ### 🛠️ Languages & Technologies
@@ -171,14 +157,8 @@ I'm always open to talking about software engineering, backend systems, cloud, o
   <a href="https://www.linkedin.com/in/karthik-reddy-2k05/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:2300030338cseh1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://karthikreddi00.github.io/my-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="tel:+918019632177">
-    <img src="https://img.shields.io/badge/Phone-+91%208019632177-34A853?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
 </p>
 
