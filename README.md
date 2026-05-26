@@ -1,12 +1,12 @@
-# Hi there! I'm Karthik Reddy 👋
+# Hi there! I'm Kommareddy Karthik Reddy 👋
 
 <p align="center">
   <img src="assets/banner.png" width="100%" alt="Karthik Reddy's GitHub Banner" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/karthik-reddy">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8a2be2&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Developer;Open+Source+Enthusiast;Problem+Solver+%26+Tech+Explorer" alt="Typing SVG" />
+  <a href="https://github.com/karthikreddi00">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8a2be2&center=true&vCenter=true&width=600&lines=CSE+Student+at+KL+University;Java+%26+Spring+Boot+Developer;Associate+Cloud+Engineer+(GCP);DevOps+%26+Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,24 +14,24 @@
 
 ### 💫 About Me
 
-I am a passionate software developer dedicated to crafting clean, efficient, and user-centric digital experiences. I thrive on solving complex technical challenges, automating workflows, and building modern web applications that scale.
+I am a Computer Science & Engineering student at **KL University** (CGPA: 9.04/10) with a strong foundation in Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), and Backend Development. I love building secure, scalable cloud-native web applications and automating software development pipelines.
 
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
       <h4>🔭 Current Focus</h4>
       <ul>
-        <li>🚀 Building scalable, responsive web applications.</li>
-        <li>📚 Deep-diving into Advanced Cloud Architectures & DevOps.</li>
-        <li>👯 Interested in collaborating on innovative open-source projects.</li>
-        <li>💬 Ask me about React, Node.js, or Software Engineering best practices.</li>
+        <li>🚀 Building real-world systems using **Java**, **Spring Boot**, and **Microservices**.</li>
+        <li>📚 Learning advanced DevOps, **CI/CD**, and cloud architectures (**GCP/AWS**).</li>
+        <li>💻 Actively practicing DSA & competitive programming on LeetCode, Codeforces, and CodeChef.</li>
+        <li>🛡️ Exploring cybersecurity principles and secure backend development.</li>
       </ul>
     </td>
     <td valign="top" width="50%">
       <h4>📊 Streak Stats</h4>
       <p align="center">
-        <a href="https://github.com/karthik-reddy">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik-reddy&theme=radical&hide_border=true&background=0d1117&ring=8a2be2&fire=8a2be2&sideLabels=c9d1d9&stroke=c9d1d9" width="100%" alt="GitHub Streak" />
+        <a href="https://github.com/karthikreddi00">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikreddi00&theme=radical&hide_border=true&background=0d1117&ring=8a2be2&fire=8a2be2&sideLabels=c9d1d9&stroke=c9d1d9" width="100%" alt="GitHub Streak" />
         </a>
       </p>
     </td>
@@ -40,64 +40,105 @@ I am a passionate software developer dedicated to crafting clean, efficient, and
 
 ---
 
+### 🏆 Certifications
+
+<p align="left">
+  <a href="https://www.credly.com/badges/09ff52fe-18b3-48a6-a547-86e5da3cd816/linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Cloud_Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP ACE Certification" />
+  </a>
+  <a href="https://www.credly.com/badges/e023338a-996f-4673-acb4-2e3309e7aa11/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB_Associate_Developer-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Certification" />
+  </a>
+</p>
+
+---
+
 ### 🛠️ Languages & Technologies
 
-Here are some of the tools, technologies, and languages I work with:
+Here are the languages, frameworks, and tools I use to build applications:
 
 <table>
   <tr>
     <td align="left" valign="top" width="33%">
-      <strong>Frontend Development</strong>
+      <strong>Languages</strong>
       <br />
+      <br />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      <br />
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+      <br />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <br />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
       <br />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
       <br />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      <br />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <br />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-      <br />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-      <br />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <br />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
     </td>
     <td align="left" valign="top" width="33%">
-      <strong>Backend & Database</strong>
+      <strong>Technologies & DBs</strong>
       <br />
       <br />
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
       <br />
-      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+      <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
       <br />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs" />
       <br />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
       <br />
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <br />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     </td>
     <td align="left" valign="top" width="33%">
-      <strong>DevOps, Tools & Systems</strong>
+      <strong>Cloud, DevOps & Tools</strong>
       <br />
       <br />
-      <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
+      <br />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
       <br />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
       <br />
-      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
       <br />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <br />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-      <br />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
     </td>
   </tr>
 </table>
+
+---
+
+### 📂 Featured Projects
+
+#### 🏏 [IPL Ticket Booking System](https://github.com/karthikreddi00)
+* **Description:** A web-based ticket booking portal featuring dynamic match listings, interactive seat selection, user booking history, and a robust admin dashboard for pricing and schedule management.
+* **Tech Stack:** Java, Spring Boot, MySQL, REST APIs
+* **Key Role:** Designed and implemented security, seat reservation algorithms, and RESTful API endpoints.
+
+#### 📈 [Virtual Stock Trading System](https://github.com/karthikreddi00)
+* **Description:** An educational platform simulating stock transactions in a risk-free virtual environment, enabling users to evaluate investment strategies under realistic market behavior.
+* **Tech Stack:** Java, Spring Boot, Hibernate, Docker, Jenkins
+* **Key Role:** Built backend workflows, structured database mappings with Hibernate, and automated testing/deployment with Docker and CI/CD pipelines.
+
+---
+
+### 💻 Coding Profiles
+
+I practice competitive programming and problem-solving to sharpen my computational skills:
+
+<p align="left">
+  <a href="https://leetcode.com/u/karthikreddi00/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.codechef.com/users/klu_2300030338" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://codeforces.com/profile/karthikreddy00" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445DFF?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+</p>
 
 ---
 
@@ -106,15 +147,15 @@ Here are some of the tools, technologies, and languages I work with:
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
-      <h4>📊 GitHub Profile Stats</h4>
-      <a href="https://github.com/karthik-reddy">
-        <img src="https://github-readme-stats.vercel.app/api?username=karthik-reddy&show_icons=true&bg_color=0d1117&title_color=8a2be2&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
+      <h4>📊 Profile Statistics</h4>
+      <a href="https://github.com/karthikreddi00">
+        <img src="https://github-readme-stats.vercel.app/api?username=karthikreddi00&show_icons=true&bg_color=0d1117&title_color=8a2be2&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
       </a>
     </td>
     <td align="center" valign="top" width="50%">
-      <h4>💻 Most Used Languages</h4>
-      <a href="https://github.com/karthik-reddy">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-reddy&layout=compact&bg_color=0d1117&title_color=8a2be2&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" width="100%" alt="Top Languages" />
+      <h4>💻 Top Languages Used</h4>
+      <a href="https://github.com/karthikreddi00">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikreddi00&layout=compact&bg_color=0d1117&title_color=8a2be2&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" width="100%" alt="Top Languages" />
       </a>
     </td>
   </tr>
@@ -124,25 +165,25 @@ Here are some of the tools, technologies, and languages I work with:
 
 ### 🤝 Let's Connect!
 
-Feel free to reach out to me for collaborations, tech discussions, or just to say hi!
+I'm always open to talking about software engineering, backend systems, cloud, or new opportunities:
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/karthik-reddy-2k05/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:2300030338cseh1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://your-portfolio-website.com" target="_blank">
+  <a href="https://karthikreddi00.github.io/my-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://twitter.com/your-twitter-username" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="tel:+918019632177">
+    <img src="https://img.shields.io/badge/Phone-+91%208019632177-34A853?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <sub>Layout designed with ❤️. Feel free to use this template!</sub>
+  <sub>Designed with ❤️ by Karthik Reddy.</sub>
 </p>
