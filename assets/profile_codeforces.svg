@@ -1,34 +1,50 @@
-<svg width="250" height="100" viewBox="0 0 250 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="220" height="80" viewBox="0 0 220 80" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     .card-bg {
       fill: #09090b;
       stroke: url(#profile_gradient);
       stroke-width: 1.5px;
+      transition: stroke 0.3s ease, fill 0.3s ease;
+    }
+    .card-content {
+      transition: transform 0.3s ease;
+      transform-origin: 110px 40px;
     }
     .platform-title {
       font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-      font-size: 14px;
+      font-size: 13px;
       font-weight: 700;
       fill: #ffffff;
     }
     .platform-link {
       font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-      font-size: 11px;
+      font-size: 10px;
+      fill: #8e9cae;
+      transition: fill 0.3s ease;
+    }
+    svg:hover .card-bg {
+      stroke: #00F0FF;
+      fill: #0f172a;
+    }
+    svg:hover .card-content {
+      transform: scale(1.05);
+    }
+    svg:hover .platform-link {
       fill: #00F0FF;
     }
   </style>
   
-  <rect x="1" y="1" width="248" height="98" rx="8" class="card-bg"/>
+  <rect x="1" y="1" width="218" height="78" rx="8" class="card-bg"/>
   
-  <g transform="translate(24, 26)">
+  <g class="card-content" transform="translate(20, 20)">
     <!-- Codeforces Icon -->
-    <path d="M12 2A10 10 0 0 0 2 12a10 10 0 0 0 10 10 10 10 0 0 0 10-10A10 10 0 0 0 12 2zm1 14h-2v-4h2v4zm0-6h-2V7h2v3z" fill="#3b82f6" transform="scale(1.8)"/>
-    <text x="54" y="18" class="platform-title">Codeforces</text>
-    <text x="54" y="34" class="platform-link">@karthikreddy00</text>
+    <path d="M12 2A10 10 0 0 0 2 12a10 10 0 0 0 10 10 10 10 0 0 0 10-10A10 10 0 0 0 12 2zm1 14h-2v-4h2v4zm0-6h-2V7h2v3z" fill="#3b82f6" transform="scale(1.5)"/>
+    <text x="48" y="15" class="platform-title">Codeforces</text>
+    <text x="48" y="30" class="platform-link">@karthikreddy00</text>
   </g>
   
   <defs>
-    <linearGradient id="profile_gradient" x1="0" y1="0" x2="250" y2="100" gradientUnits="userSpaceOnUse">
+    <linearGradient id="profile_gradient" x1="0" y1="0" x2="220" y2="80" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#00F0FF"/>
       <stop offset="100%" stop-color="#0055FF"/>
     </linearGradient>
