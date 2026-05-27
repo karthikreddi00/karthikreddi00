@@ -1,0 +1,81 @@
+<svg width="400" height="180" viewBox="0 0 400 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .card-title {
+      font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 15px;
+      font-weight: 700;
+      fill: #ffffff;
+    }
+    .card-desc {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-size: 12px;
+      fill: #94a3b8;
+    }
+    .tech-tag {
+      font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 10px;
+      font-weight: 600;
+    }
+    .tag-bg {
+      fill: #121214;
+      stroke: #1f2937;
+      stroke-width: 1px;
+    }
+    .border-glow {
+      stroke: url(#card_gradient);
+      stroke-width: 1.5px;
+    }
+  </style>
+  
+  <!-- Card Background -->
+  <rect x="1" y="1" width="398" height="178" rx="8" fill="#09090b" class="border-glow"/>
+  
+  <!-- Project Title -->
+  <text x="20" y="38" class="card-title">IPL Ticket Booking</text>
+  
+  <!-- Sleek Code/Terminal Icon on the top right -->
+  <g transform="translate(360, 24) scale(0.8)">
+    <path d="M9.4 16.6L4.8 12l4.6-4.6L8 6l-6 6 6 6 1.4-1.4zm5.2 0l4.6-4.6-4.6-4.6L16 6l6 6-6 6-1.4-1.4z" fill="#00f0ff" opacity="0.6"/>
+  </g>
+  
+  <!-- Description -->
+  <text x="20" y="66" class="card-desc">
+    <tspan x="20" dy="0">A web-based booking portal featuring dynamic</tspan>
+    <tspan x="20" dy="18">match listings, interactive seat selection,</tspan>
+    <tspan x="20" dy="18">and admin dashboard for schedule management.</tspan>
+  </text>
+  
+  <!-- Tech Tags -->
+  <!-- Tag 1: Java -->
+  <g transform="translate(20, 132)">
+    <rect width="45" height="22" rx="4" class="tag-bg"/>
+    <text x="22.5" y="14" text-anchor="middle" class="tech-tag" fill="#00f0ff">Java</text>
+  </g>
+  
+  <!-- Tag 2: Spring Boot -->
+  <g transform="translate(71, 132)">
+    <rect width="84" height="22" rx="4" class="tag-bg"/>
+    <text x="42" y="14" text-anchor="middle" class="tech-tag" fill="#a855f7">Spring Boot</text>
+  </g>
+
+  <!-- Tag 3: MySQL -->
+  <g transform="translate(161, 132)">
+    <rect width="52" height="22" rx="4" class="tag-bg"/>
+    <text x="26" y="14" text-anchor="middle" class="tech-tag" fill="#00f0ff">MySQL</text>
+  </g>
+
+  <!-- Tag 4: REST API -->
+  <g transform="translate(219, 132)">
+    <rect width="72" height="22" rx="4" class="tag-bg"/>
+    <text x="36" y="14" text-anchor="middle" class="tech-tag" fill="#a855f7">REST API</text>
+  </g>
+
+  <defs>
+    <linearGradient id="card_gradient" x1="0" y1="0" x2="400" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#00F0FF"/>
+      <stop offset="35%" stop-color="#121214"/>
+      <stop offset="65%" stop-color="#121214"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+  </defs>
+</svg>
