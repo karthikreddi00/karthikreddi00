@@ -38,19 +38,19 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="5">
   <tr>
-    <td width="33%" align="center" valign="top">
+    <td align="center" valign="top">
       <a href="https://leetcode.com/u/karthikreddi00/" target="_blank">
-        <img src="assets/profile_leetcode.svg" width="100%" alt="LeetCode" />
+        <img src="assets/profile_leetcode.svg" width="220" alt="LeetCode" />
       </a>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td align="center" valign="top">
       <a href="https://codeforces.com/profile/karthikreddy00" target="_blank">
-        <img src="assets/profile_codeforces.svg" width="100%" alt="Codeforces" />
+        <img src="assets/profile_codeforces.svg" width="220" alt="Codeforces" />
       </a>
     </td>
-    <td width="34%" align="center" valign="top">
+    <td align="center" valign="top">
       <a href="https://www.codechef.com/users/klu_2300030338" target="_blank">
-        <img src="assets/profile_codechef.svg" width="100%" alt="CodeChef" />
+        <img src="assets/profile_codechef.svg" width="220" alt="CodeChef" />
       </a>
     </td>
   </tr>
