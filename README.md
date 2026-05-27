@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00f0ff,a855f7&height=200&section=header&text=Karthik%20Reddy&fontSize=50&fontAlignY=35&fontColor=ffffff&animation=twinkle" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00f0ff,0055ff&height=200&section=header&text=Karthik%20Reddy&fontSize=50&fontAlignY=35&fontColor=ffffff&animation=twinkle" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -42,8 +42,4 @@
 
 <p align="center">
   <img src="assets/separator.svg" width="100%" alt="Divider" />
-</p>
-
-<p align="center">
-  <sub>Designed with 💜 and 🩵 by Karthik Reddy.</sub>
 </p>

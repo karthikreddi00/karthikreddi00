@@ -14,7 +14,7 @@
     }
     .bold-text {
       font-weight: 600;
-      fill: #A855F7;
+      fill: #3b82f6;
     }
     .border-glow {
       stroke: url(#about_gradient);
@@ -41,7 +41,7 @@
     <linearGradient id="about_gradient" x1="0" y1="0" x2="800" y2="250" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#00F0FF"/>
       <stop offset="50%" stop-color="#121214"/>
-      <stop offset="100%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#0055FF"/>
     </linearGradient>
   </defs>
 </svg>
