@@ -1,10 +1,6 @@
 <h1 align="center">Karthik Reddy</h1>
 
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Karthik Reddy's GitHub Banner" />
-</p>
-
-<p align="center">
   <a href="https://github.com/karthikreddi00">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Java+%26+Spring+Boot+Developer;DevOps+%26+Cloud+Explorer;Competitive+Programmer;Building+scalable+backend+systems" alt="Typing SVG" />
   </a>
