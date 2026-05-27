@@ -36,9 +36,25 @@
 
 ## 💻 Coding Profiles
 
-<p align="center">
-  <img src="assets/coding_profiles.svg" width="100%" alt="Coding Profiles" />
-</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="5">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://leetcode.com/u/karthikreddi00/" target="_blank">
+        <img src="assets/profile_leetcode.svg" width="100%" alt="LeetCode" />
+      </a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://codeforces.com/profile/karthikreddy00" target="_blank">
+        <img src="assets/profile_codeforces.svg" width="100%" alt="Codeforces" />
+      </a>
+    </td>
+    <td width="34%" align="center" valign="top">
+      <a href="https://www.codechef.com/users/klu_2300030338" target="_blank">
+        <img src="assets/profile_codechef.svg" width="100%" alt="CodeChef" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="assets/separator.svg" width="100%" alt="Divider" />

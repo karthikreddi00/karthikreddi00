@@ -1,0 +1,36 @@
+<svg width="250" height="100" viewBox="0 0 250 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .card-bg {
+      fill: #09090b;
+      stroke: url(#profile_gradient);
+      stroke-width: 1.5px;
+    }
+    .platform-title {
+      font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 14px;
+      font-weight: 700;
+      fill: #ffffff;
+    }
+    .platform-link {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-size: 11px;
+      fill: #00F0FF;
+    }
+  </style>
+  
+  <rect x="1" y="1" width="248" height="98" rx="8" class="card-bg"/>
+  
+  <g transform="translate(24, 26)">
+    <!-- LeetCode Icon -->
+    <path d="M12 2A10 10 0 0 0 2 12a10 10 0 0 0 10 10 10 10 0 0 0 10-10A10 10 0 0 0 12 2zm-1.8 14.2l-2.4-2.4 5.6-5.6 1.4 1.4-4.6 4.6-1.4 2z" fill="#00F0FF" transform="scale(1.8)"/>
+    <text x="54" y="18" class="platform-title">LeetCode</text>
+    <text x="54" y="34" class="platform-link">@karthikreddi00</text>
+  </g>
+  
+  <defs>
+    <linearGradient id="profile_gradient" x1="0" y1="0" x2="250" y2="100" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#00F0FF"/>
+      <stop offset="100%" stop-color="#0055FF"/>
+    </linearGradient>
+  </defs>
+</svg>
