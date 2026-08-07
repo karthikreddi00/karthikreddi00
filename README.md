@@ -59,9 +59,7 @@
     <img src="https://img.shields.io/github/stars/karthikreddi00?label=Stars&logo=github&style=for-the-badge&color=8a2be2&labelColor=0d1117&logoColor=8a2be2" alt="GitHub Stars" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=karthikreddi00&label=Profile+Views&color=00e5ff&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=karthikreddi00&label=Visitors&color=3&icon=5&pretty=true" alt="Visitor Count" />
-  </a>
+
 </p>
 
 <p align="center">
@@ -236,7 +234,7 @@ motto: "The quieter you become, the more you can hear."
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">
-  <code>root@karthikreddy:~$ neofetch --stats</code>
+  <code>⟨ SYSTEM_STATS ⟩</code>
 </h2>
 
 <br />
@@ -403,54 +401,7 @@ motto: "The quieter you become, the more you can hear."
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,50:00e5ff,100:8a2be2&height=2&section=header" width="100%" />
 </p>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!-- ██               TERMINAL SECTION                           ██ -->
-<!-- ══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">
-  <code>root@karthikreddy:~$ ./terminal.sh</code>
-</h2>
-
-<div align="center">
-
-```bash
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   ┌──(root㉿karthikreddy)-[~/security-lab]                      │
-│   └─$ whoami                                                     │
-│   Karthik Reddy                                                  │
-│                                                                  │
-│   ┌──(root㉿karthikreddy)-[~/security-lab]                      │
-│   └─$ cat /etc/skills                                            │
-│   ▸ Cybersecurity        ████████████████████░░   90%            │
-│   ▸ Java                 ███████████████████░░░   85%            │
-│   ▸ DSA                  ██████████████████░░░░   80%            │
-│   ▸ Linux                ███████████████████░░░   85%            │
-│   ▸ AWS                  ████████████████░░░░░░   70%            │
-│   ▸ Python               ████████████████░░░░░░   70%            │
-│   ▸ Web Security         ███████████████░░░░░░░   65%            │
-│                                                                  │
-│   ┌──(root㉿karthikreddy)-[~/security-lab]                      │
-│   └─$ systemctl status current_project                           │
-│   ● siem-project.service - SIEM Dashboard                       │
-│     Active: active (running) ██████░░ 60%                        │
-│     Status: "Building SIEM & Threat Intel Pipeline..."           │
-│                                                                  │
-│   ┌──(root㉿karthikreddy)-[~/security-lab]                      │
-│   └─$ uptime                                                     │
-│   Coding since 2023 • Open to collaboration • Always learning    │
-│                                                                  │
-│   ┌──(root㉿karthikreddy)-[~/security-lab]                      │
-│   └─$ █                                                          │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,50:00e5ff,100:8a2be2&height=2&section=header" width="100%" />
-</p>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!-- ██               ACHIEVEMENTS                               ██ -->
