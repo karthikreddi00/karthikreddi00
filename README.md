@@ -429,29 +429,7 @@ motto: "The quieter you become, the more you can hear."
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,50:00e5ff,100:8a2be2&height=2&section=header" width="100%" />
 </p>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!-- ██               HACKER QUOTE                               ██ -->
-<!-- ══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">
-  <code>root@karthikreddy:~$ fortune | cowsay</code>
-</h2>
-
-<br />
-
-<p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20only%20truly%20secure%20system%20is%20one%20that%20is%20powered%20off%2C%20cast%20in%20a%20block%20of%20concrete%2C%20and%20sealed%20in%20a%20lead-lined%20room%20with%20armed%20guards.&author=Gene%20Spafford&border=true" width="80%" alt="Hacker Quote" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=2000&color=555555&center=true&vCenter=true&width=600&lines=%22In+the+world+of+cybersecurity%2C+paranoia+is+a+feature%2C+not+a+bug.%22;%22The+best+defense+is+a+good+offense...+ethically.%22;%22There+are+only+two+types+of+companies%3A+hacked+and+don't+know+it+yet.%22;%22Security+is+not+a+product+but+a+process.%22+-+Bruce+Schneier;%22Hacking+is+not+about+breaking+in.+It's+about+finding+the+way.%22" alt="Rotating Quotes" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,50:00e5ff,100:8a2be2&height=2&section=header" width="100%" />
-</p>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!-- ██                    CONNECT                               ██ -->
@@ -511,22 +489,7 @@ motto: "The quieter you become, the more you can hear."
   </a>
 </p>
 
-<div align="center">
 
-```
- 01001011 01000001 01010010 01010100 01001000 01001001 01001011
- ╔══════════════════════════════════════════════════════════════╗
- ║  ░░▒▒▓▓██ MATRIX RAIN ██▓▓▒▒░░  ░░▒▒▓▓██ MATRIX ██▓▓▒▒░░  ║
- ║  ▓ ░ ▒ █ ░ ▓ ▒ ░ █ ▓ ░ ▒ █ ░ ▓ ▒ ░ █ ▓ ░ ▒ █ ░ ▓ ▒ ░ █  ║
- ║  0 1 1 0 1 0 0 1 1 0 1 1 0 0 1 0 1 0 1 1 0 1 0 0 1 1 0 1  ║
- ║  █ ░ ▓ ▒ █ ░ ▓ ▒ ░ █ ▓ ░ ▒ █ ░ ▓ ▒ ░ █ ▓ ░ ▒ █ ░ ▓ ▒ ░  ║
- ║  1 0 0 1 0 1 1 0 0 1 0 0 1 1 0 1 0 1 0 0 1 0 1 1 0 0 1 0  ║
- ╚══════════════════════════════════════════════════════════════╝
-
- ⟨ "The quieter you become, the more you can hear." — Kali Linux ⟩
-```
-
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:00ff41,50:00e5ff,75:8a2be2,100:0d1117&height=150&section=footer" width="100%" />
