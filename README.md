@@ -52,22 +52,36 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikreddi00&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikreddi00&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&currStreakNum=c9d1d9&sideLabels=00ff41&sideNums=c9d1d9&dates=555555" width="48%" />
+  <picture>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=karthikreddi00&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&rank_icon=github" width="48%" alt="GitHub Stats" />
+  </picture>
+  <img src="https://streak-stats.demolab.com?user=karthikreddi00&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&currStreakNum=c9d1d9&sideLabels=00ff41&sideNums=c9d1d9&dates=555555" width="48%" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikreddi00&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="38%" />
+  <picture>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=karthikreddi00&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="38%" alt="Top Languages" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karthikreddi00&theme=matrix&no-frame=true&no-bg=true&column=7" />
+  <picture>
+    <img src="https://github-profile-trophy.vercel.app/?username=karthikreddi00&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies" />
+  </picture>
 </p>
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikreddi00&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area_color=00ff4120&area=true&hide_border=true" width="95%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikreddi00&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area_color=00ff4120&area=true&hide_border=true" width="95%" alt="Activity Graph" />
   </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karthikreddi00/karthikreddi00/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karthikreddi00/karthikreddi00/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/karthikreddi00/karthikreddi00/output/github-snake-dark.svg" width="100%" />
+  </picture>
 </p>
 
 ---
