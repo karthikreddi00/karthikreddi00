@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/karthikreddi00">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Competitive+Programmer;Java+Developer;Future+Security+Engineer" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Competitive+Programmer;Java+Developer" />
   </a>
 </p>
 
@@ -64,11 +64,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <img src="https://github-profile-trophy.vercel.app/?username=karthikreddi00&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies" />
-  </picture>
-</p>
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
