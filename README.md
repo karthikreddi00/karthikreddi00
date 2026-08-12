@@ -53,14 +53,14 @@
 
 <p align="center">
   <picture>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=karthikreddi00&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&rank_icon=github" width="48%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-phi-nine.vercel.app/api?username=karthikreddi00&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&rank_icon=github" width="48%" alt="GitHub Stats" />
   </picture>
-  <img src="https://streak-stats.demolab.com?user=karthikreddi00&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&currStreakNum=c9d1d9&sideLabels=00ff41&sideNums=c9d1d9&dates=555555" width="48%" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats-phi.vercel.app/?user=karthikreddi00&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&currStreakNum=c9d1d9&sideLabels=00ff41&sideNums=c9d1d9&dates=555555" width="48%" alt="Streak Stats" />
 </p>
 
 <p align="center">
   <picture>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=karthikreddi00&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="38%" alt="Top Languages" />
+    <img src="https://github-readme-stats-phi-nine.vercel.app/api/top-langs/?username=karthikreddi00&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="38%" alt="Top Languages" />
   </picture>
 </p>
 
