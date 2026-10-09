@@ -1,7 +1,7 @@
 <a href="https://github.com/jeantimex/neofetch-profile">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=karthikreddi00&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Fkarthikreddi00%2Fkarthikreddi00%2Fmain%2Fassets%2Fconfig.json&v=3">
-    <img alt="Neofetch Profile" src="https://neofetch-profile.vercel.app/api?username=karthikreddi00&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2Fkarthikreddi00%2Fkarthikreddi00%2Fmain%2Fassets%2Fconfig.json&v=3">
+    <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=karthikreddi00&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Fkarthikreddi00%2Fkarthikreddi00%2Fmain%2Fassets%2Fconfig.json&v=4">
+    <img alt="Neofetch Profile" src="https://neofetch-profile.vercel.app/api?username=karthikreddi00&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2Fkarthikreddi00%2Fkarthikreddi00%2Fmain%2Fassets%2Fconfig.json&v=4">
   </picture>
 </a>
 
