@@ -1,0 +1,49 @@
+{
+  "image": "https://raw.githubusercontent.com/karthikreddi00/karthikreddi00/main/assets/karthik.png",
+  "coloredImage": false,
+  "removeBackground": false,
+  "imageScale": 1.1,
+  "imageOffsetX": "10%",
+  "imageOffsetY": "0%",
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        { "key": "Name", "value": "{{name}}" },
+        { "key": "Location", "value": "{{location}}" },
+        { "key": "Created", "value": "{{created}}" },
+        { "key": "Uptime", "value": "{{uptime}}" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Languages", "value": "{{languages}}" },
+        { "key": "IDE", "value": "VSCode" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Interests", "value": "Cybersecurity, Competitive Programming" },
+        { "key": "Tools", "value": "Wireshark, Burp Suite, Nmap, Metasploit" }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        { "key": "Email", "value": "karthikreddi00@gmail.com" },
+        { "key": "LinkedIn", "value": "https://linkedin.com/in/karthikreddi00" },
+        { "key": "LeetCode", "value": "https://leetcode.com/u/karthikreddi00/" }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
+      { "left": { "key": "Following", "value": "{{following}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
+      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Forks", "value": "{{forks}}" } },
+      { "left": { "key": "Issues", "value": "{{issues}}" }, "right": { "key": "Pull Requests", "value": "{{prs}}" } },
+      "loc"
+    ]
+  }
+}

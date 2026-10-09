@@ -1,22 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=Karthik%20Reddy&fontSize=42&fontAlignY=35&fontColor=00ff41&animation=twinkling&fontFamily=JetBrains+Mono" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/karthikreddi00">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Competitive+Programmer;Java+Developer" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/karthikreddi00?tab=followers">
-    <img src="https://img.shields.io/github/followers/karthikreddi00?style=flat&color=00ff41&labelColor=0d1117&logo=github&logoColor=00ff41" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=karthikreddi00&color=00ff41&style=flat&label=views&labelColor=0d1117" />
-  <a href="https://github.com/karthikreddi00?tab=repositories">
-    <img src="https://img.shields.io/github/stars/karthikreddi00?style=flat&color=00ff41&labelColor=0d1117&logo=github&logoColor=00ff41" />
-  </a>
-</p>
+<a href="https://github.com/jeantimex/neofetch-profile">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=karthikreddi00&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Fkarthikreddi00%2Fkarthikreddi00%2Fmain%2Fassets%2Fconfig.json&v=1">
+    <img alt="Neofetch Profile" src="https://neofetch-profile.vercel.app/api?username=karthikreddi00&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2Fkarthikreddi00%2Fkarthikreddi00%2Fmain%2Fassets%2Fconfig.json&v=1">
+  </picture>
+</a>
 
 ---
 
@@ -47,39 +34,10 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=0d1117" />
 </p>
 
----
-
-<h3 align="center">GitHub Stats</h3>
-
-<p align="center">
-  <picture>
-    <img src="https://github-readme-stats-phi-nine.vercel.app/api?username=karthikreddi00&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&rank_icon=github" width="48%" alt="GitHub Stats" />
-  </picture>
-  <img src="https://github-readme-streak-stats-phi.vercel.app/?user=karthikreddi00&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&currStreakNum=c9d1d9&sideLabels=00ff41&sideNums=c9d1d9&dates=555555" width="48%" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <picture>
-    <img src="https://github-readme-stats-phi-nine.vercel.app/api/top-langs/?username=karthikreddi00&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="38%" alt="Top Languages" />
-  </picture>
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikreddi00&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area_color=00ff4120&area=true&hide_border=true" width="95%" alt="Activity Graph" />
-  </a>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karthikreddi00/karthikreddi00/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karthikreddi00/karthikreddi00/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/karthikreddi00/karthikreddi00/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</p>
 
 ---
+
+
 
 <h3 align="center">Coding Profiles</h3>
 
