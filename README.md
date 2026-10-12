@@ -1,7 +1,7 @@
 <a href="https://github.com/jeantimex/neofetch-profile">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=karthikreddi00&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Fkarthikreddi00%2Fkarthikreddi00%2Fmain%2Fassets%2Fconfig.json&v=1791784560">
-    <img alt="Neofetch Profile" src="https://neofetch-profile.vercel.app/api?username=karthikreddi00&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2Fkarthikreddi00%2Fkarthikreddi00%2Fmain%2Fassets%2Fconfig.json&v=1791784560">
+    <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=karthikreddi00&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Fkarthikreddi00%2Fkarthikreddi00%2Fmain%2Fassets%2Fconfig.json&v=1791785802">
+    <img alt="Neofetch Profile" src="https://neofetch-profile.vercel.app/api?username=karthikreddi00&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2Fkarthikreddi00%2Fkarthikreddi00%2Fmain%2Fassets%2Fconfig.json&v=1791785802">
   </picture>
 </a>
 
@@ -34,10 +34,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=0d1117" />
 </p>
 
-
 ---
-
-
 
 <h3 align="center">Coding Profiles</h3>
 
@@ -60,22 +57,6 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/karthikreddi00?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10" width="55%" />
-</p>
-
----
-
-<h3 align="center">Connect</h3>
-
-<p align="center">
-  <a href="mailto:karthikreddi00@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-  </a>
-  <a href="https://www.linkedin.com/in/karthikreddi00/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-  </a>
-  <a href="https://github.com/karthikreddi00">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-  </a>
 </p>
 
 ---
