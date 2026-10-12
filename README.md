@@ -45,9 +45,6 @@
   <a href="https://www.codechef.com/users/klu_2300030338">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117" />
   </a>
-  <a href="https://www.hackerrank.com/profile/karthikreddi00">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0d1117" />
-  </a>
   <a href="https://codeforces.com/profile/karthikreddy00">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117" />
   </a>
